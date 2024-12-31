@@ -19,3 +19,7 @@
 ### spending-record.html:
 
 ##### Learn about table structure using thead, tfoot and tbody.
+
+### items-sold-scope.html / items-sold-headers.html:
+
+##### Learn about scope and headers.
