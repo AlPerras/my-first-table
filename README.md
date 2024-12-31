@@ -1,25 +1,27 @@
-# MDN HTML table basics active learning
+# MDN HTML Table Basics Active Learning
 
-### blank-template.html:
+## Files and What They Teach:
 
-##### First table using table tag and table data tag.
+### `blank-template.html`
 
-### dogs-table.html:
+- First table using `<table>` and `<td>` tags.
 
-##### Learn about table header tag.
+### `dogs-table.html`
 
-### animals-table.html:
+- Learn about the `<th>` (table header) tag.
 
-##### Learn about colspan and rowspan tag.
+### `animals-table.html`
 
-### timetable.html:
+- Learn about the `<colspan>` and `<rowspan>` attributes.
 
-##### Learn about caption tag.
+### `timetable.html`
 
-### spending-record.html:
+- Learn about the `<caption>` tag.
 
-##### Learn about table structure using thead, tfoot and tbody.
+### `spending-record.html`
 
-### items-sold-scope.html / items-sold-headers.html:
+- Learn about table structure using `<thead>`, `<tfoot>`, and `<tbody>`.
 
-##### Learn about scope and headers.
+### `items-sold-scope.html` / `items-sold-headers.html`
+
+- Learn about the `scope` and `headers` attributes.
