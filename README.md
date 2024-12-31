@@ -1,7 +1,17 @@
 # MDN HTML table basics active learning
 
-### blank-template.html where I created my first table using table tag and table data tag.
+### blank-template.html:
 
-### dogs-table.html where I learn how to use table header tag.
+    First table using table tag and table data tag.
 
-### animals-table.html where I learn about colspan and rowspan tag.
+### dogs-table.html:
+
+    Learn about table header tag.
+
+### animals-table.html:
+
+    Learn about colspan and rowspan tag.
+
+### timetable.html:
+
+    Learn to abiut caption tag.
