@@ -14,4 +14,8 @@
 
 ### timetable.html:
 
-##### Learn to abiut caption tag.
+##### Learn about caption tag.
+
+### spending-record.html:
+
+##### Learn about table structure using thead, tfoot and tbody.
